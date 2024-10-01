@@ -1,0 +1,11 @@
+Triple Ten Final Project:
+
+Attached in this .txt file is a link to my Final Project. I decided to perform a restaurant analysis for the Zomato company using Tableau. I will also provide my PowerPoint file that contains all of my insights, recommendations, and conclusions. 
+
+
+I feel much more confident with this iteration, please provide any feedback you may have. 
+
+
+
+
+URL : https://public.tableau.com/views/TripleTenFinalv2/OverviewDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
